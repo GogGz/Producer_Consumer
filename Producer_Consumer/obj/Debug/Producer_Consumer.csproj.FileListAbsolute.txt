@@ -1,0 +1,7 @@
+C:\Users\gohar.ghazaryan\source\repos\Producer_Consumer\Producer_Consumer\bin\Debug\Producer_Consumer.exe.config
+C:\Users\gohar.ghazaryan\source\repos\Producer_Consumer\Producer_Consumer\bin\Debug\Producer_Consumer.exe
+C:\Users\gohar.ghazaryan\source\repos\Producer_Consumer\Producer_Consumer\bin\Debug\Producer_Consumer.pdb
+C:\Users\gohar.ghazaryan\source\repos\Producer_Consumer\Producer_Consumer\obj\Debug\Producer_Consumer.csproj.AssemblyReference.cache
+C:\Users\gohar.ghazaryan\source\repos\Producer_Consumer\Producer_Consumer\obj\Debug\Producer_Consumer.csproj.CoreCompileInputs.cache
+C:\Users\gohar.ghazaryan\source\repos\Producer_Consumer\Producer_Consumer\obj\Debug\Producer_Consumer.exe
+C:\Users\gohar.ghazaryan\source\repos\Producer_Consumer\Producer_Consumer\obj\Debug\Producer_Consumer.pdb
